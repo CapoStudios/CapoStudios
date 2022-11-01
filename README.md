@@ -8,8 +8,9 @@ This is the place where I opensource my projects and I try to help others 👨�
 - 🎮 &nbsp;check out some of my games and tools on [itch.io](https://capostudios.itch.io/)
 
 <h3 align="center">
+<br><br><br>
 "Software is like sex: it’s better when it’s free."<br>
-Linus Torvalds
+Linus Torvalds<br><br><br><br><br><br><br>
 </h3>
 
 (try clicking on the hand)

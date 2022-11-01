@@ -1,4 +1,4 @@
-# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 This is the place where I opensource my projects and I try to help others 👨‍💻
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:

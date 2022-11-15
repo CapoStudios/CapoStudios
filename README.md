@@ -5,7 +5,7 @@ This is the place where I opensource my projects and I try to help others 👨�
 - 🌱 &nbsp;I’m currently learning [Rust](https://www.rust-lang.org/), [Svelte](https://svelte.dev/)
 - 💬 &nbsp;Ask me about anything related to [Python](https://www.python.org/)/[C++](https://en.wikipedia.org/wiki/C%2B%2B)/[GDScript](https://godotengine.org/) or [Vue](https://vuejs.org/)/[Flutter](https://flutter.dev/)/[Pygame](https://www.pygame.org/)/[Godot](https://godotengine.org/)
 - 👨‍💻 &nbsp;Read more about my projects [here](https://github.com/CapoStudios?tab=repositories)
-- 🎮 &nbsp;check out some of my games and tools on [itch.io](https://capostudios.itch.io/)
+- 🎮 &nbsp;Check out some of my games and tools on [itch.io](https://capostudios.itch.io/)
 
 <h3 align="center">
 <br><br><br>

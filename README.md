@@ -7,10 +7,12 @@ This is the place where I opensource my projects and I try to help others 👨�
 - 👨‍💻 &nbsp;Read more about my projects [here](https://github.com/CapoStudios?tab=repositories)
 - 🎮 &nbsp;Check out some of my games and tools on [itch.io](https://capostudios.itch.io/)
 
-<h3 align="center">
+<h3 align="right">
 <br><br><br>
-"Software is like sex: it’s better when it’s free."<br>
-Linus Torvalds<br><br><br><br><br><br><br>
+<em>«There're two things I love to do in my life: <br>
+ Having sex and programming, <br>but programming is like having sex.»</em><br>
+Alex C.
+<br><br><br><br><br><br><br>
 </h3>
 
 (try clicking on the hand)
